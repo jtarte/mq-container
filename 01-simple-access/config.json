@@ -1,0 +1,7 @@
+{
+    "queue_manager": "QM1",
+    "channel": "APPCHL",
+    "host" : "localhost",
+    "port" : "1414",
+    "queue": "APPQ"
+}

@@ -1,0 +1,21 @@
+{
+  "channel": [
+    {
+      "name": "APPCHL",
+      "clientConnection": {
+        "connection": [
+          {
+            "host": "localhost",
+            "port": 1414
+          }
+        ],
+        "queueManager": "QM1"
+      },
+      "transmissionSecurity": {
+        "cipherSpecification": "ECDHE_RSA_AES_128_CBC_SHA256"
+      },
+      "type": "clientConnection"
+    }
+  ]
+}
+
